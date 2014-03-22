@@ -1,4 +1,2 @@
-toy
-===
-
-Toy
+newsreader
+==============
